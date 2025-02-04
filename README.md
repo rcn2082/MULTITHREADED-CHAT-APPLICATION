@@ -26,3 +26,7 @@ In summary, a multithreaded chat application in Java utilizes socket programming
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/408aaa6a-9eab-4c94-a9e5-21b118c5e585)
+![Image](https://github.com/user-attachments/assets/68e5062f-e306-479b-9933-567201250214)
+[6.pdf](https://github.com/user-attachments/files/18653728/6.pdf)
+
